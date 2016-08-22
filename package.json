@@ -1,0 +1,16 @@
+{
+  "name": "cld-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cld.js",
+  "scripts": {},
+  "bin": {
+    "cld": "./cld.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cld": "^2.4.6",
+    "cli": "^1.0.0"
+  }
+}
